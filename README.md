@@ -13,19 +13,6 @@ Outside of code, you’ll find me at concerts, cooking, or sketching new side pr
 
 ---
 
-## 🚀 Current Projects  
-
-- **[EagleEats](https://github.com/aust1n2170/EagleEats) ** 🍴  
-  SwiftUI app with Supabase backend bringing dining hall menus, nutrition data, and favorites to BC students. Actively maintained and developed.  
-
-- **[Libro](https://github.com/daganaa/Libro)** 📓🎙️  
-  Voice-first journaling app using React + Node + AI (Retell SDK) to summarize and reflect. Made for AgentHacks SF, June 2025.
-
-- **[Portfolio Site](https://github.com/nathanthai/portfolio)** 🌐  
-  Animated React + Supabase + Tailwind site with parallax & Apple-inspired design. Updated August 2025.
-
----
-
 ## 🛠️ Skills & Tools  
 
 **Languages:** Swift, Python, Java, C, C++, Haskell, Go, SQL / Postgres, JavaScript / TypeScript 
