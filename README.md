@@ -28,10 +28,10 @@ Outside of code, you’ll find me at concerts, cooking, or sketching new side pr
 
 ## 🛠️ Skills & Tools  
 
-**Languages:** Swift, Python, Java, C, C++, Haskell, SQL, JavaScript / TypeScript 
+**Languages:** Swift, Python, Java, C, C++, Haskell, Go, SQL / Postgres, JavaScript / TypeScript 
 **Frameworks:** SwiftUI, React, Node.js  
-**Infra & DB:** Supabase (Postgres + Edge Functions), Firebase, Git  
-**Other:** Framer Motion, Tailwind, Verilog 
+**Infra & DB:** Supabase, Firebase, Git  
+**Other:** Framer Motion, Tailwind 
 
 ---
 
