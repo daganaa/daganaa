@@ -22,12 +22,13 @@ Outside of code, you’ll find me at concerts, cooking, or sketching new side pr
 
 ---
 
-## 📊 Fun Stats  
+<!--## 📊 Stats  
 
 ![Nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=daganaa&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daganaa&layout=compact&theme=radical)  
 
 ---
+-->
 
 ## 🌐 Extracurriculars & Involvement  
 
