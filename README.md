@@ -49,6 +49,6 @@ Outside of code, you’ll find me at concerts, cooking, or sketching new side pr
 <!--## ✨ Fun Fact  
 > “Made with ☕ + ❤️ in Boston”  
 
- Currently learning **systems design** and building tools that **make student life easier**.  
+ Currently learning **systems design** and building tools that **make student life easier**.  -->
 
-![Visitor Count](https://komarev.com/ghpvc/?username=nathanthai&color=brightgreen)-->
+![Visitor Count](https://komarev.com/ghpvc/?username=nathanthai&color=brightgreen)
