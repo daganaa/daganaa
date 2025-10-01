@@ -34,7 +34,7 @@ Outside of code, you’ll find me at concerts, cooking, or sketching new side pr
 
 - 🎓 **Boston College Computer Science Society** — built the society website [bccss.co](https://bccss.co)  
 - 🛠️ **Hackathons** — organizer & participant at *Hack the Heights*  
-- 🎶 **Boston College Asian Caucus** — former co-organizer of BC’s live concert series 
+- 🎶 **Boston College Asian Caucus** — former co-organizer of Mind to Mic (annual concert)
 
 ---
 
