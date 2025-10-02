@@ -16,9 +16,9 @@ Outside of code, you’ll find me at concerts, cooking, or sketching new side pr
 ## 🛠️ Skills & Tools  
 
 **Languages:** Swift, Python, Java, C, C++, Haskell, Go, SQL / Postgres, JavaScript / TypeScript  
-**Frameworks:** SwiftUI, React, Node.js  
-**Infra & DB:** Supabase, Firebase, Git  
-**Other:** Framer Motion, Tailwind 
+**Frameworks:** SwiftUI, React, Node, Express, Vue, pandas, NumPy, Matplotlib, Plotly  
+**Infra & DB:** Supabase, Firebase, Git, Docker, Vercel  
+**Other:** JWT, Framer Motion, Tailwind, Puppeteer, Selenium, Postman 
 
 ---
 
@@ -33,8 +33,8 @@ Outside of code, you’ll find me at concerts, cooking, or sketching new side pr
 ## 🌐 Extracurriculars & Involvement  
 
 - 🎓 **Boston College Computer Science Society** — built the society website [bccss.co](https://bccss.co)  
-- 🛠️ **Hackathons** — organizer & participant at *Hack the Heights*  
-- 🎶 **Boston College Asian Caucus** — former co-organizer of Mind to Mic (annual concert)
+- 🛠️ **Hackathons** — organizer @ *Hack the Heights*, participant @ UC Berkeley AI Hackathon 2024, AgentHacks 2025, BostonHacks 2025  
+- 🎶 **Boston College Asian Caucus** — former Community Chair & co-organizer of Mind to Mic (annual concert)
 
 ---
 
