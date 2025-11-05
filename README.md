@@ -1,7 +1,6 @@
-# 👋 Hi, I’m Nathan Thai  
+# 👋 I’m Nathan Thai  
 
-💻 CS @ Boston College • SWE Intern • Builder of apps & explorer of ideas  
-🚀 Passionate about blending **tech, design, and community** into meaningful products  
+CS @ Boston College
 
 ---
 
@@ -33,8 +32,8 @@ Outside of code, you’ll find me at concerts, cooking, or sketching new side pr
 ## 🌐 Extracurriculars & Involvement  
 
 - 🎓 **Boston College Computer Science Society** — built the society website [bccss.co](https://bccss.co)  
-- 🛠️ **Hackathons** — organizer @ *Hack the Heights*, participant @ UC Berkeley AI Hackathon 2024, AgentHacks 2025, BostonHacks 2025  
-- 🎶 **Boston College Asian Caucus** — former Community Chair & co-organizer of Mind to Mic (annual concert)
+- 🛠️ **Hackathons** — organizer @ *Hack the Heights*, participant @ UC Berkeley AI Hackathon 2024, AgentHacks 2025, CalHacks 12.0  
+- 🎶 **Boston College Asian Caucus** — former co-Community Chair & co-organizer of Mind to Mic (annual concert)
 
 ---
 
