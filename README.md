@@ -5,10 +5,11 @@ CS @ Boston College
 ---
 
 ## 🌟 About Me  
-I’m a software engineer and creative technologist who loves turning ideas into polished products.  
-Currently exploring **full-stack development**, **AI-driven apps**, and **interactive design**.  
+I'm a software engineer from San Jose, CA at Boston College. I like making projects to help people be more efficient
 
-Outside of code, you’ll find me at concerts, cooking, or sketching new side projects.  
+Outside of code, you’ll find me at concerts, cooking, or sketching new side projects.
+
+Best way to reach out is by sending me a message on LinkedIn!
 
 ---
 
@@ -31,7 +32,7 @@ Outside of code, you’ll find me at concerts, cooking, or sketching new side pr
 
 ## 🌐 Extracurriculars & Involvement  
 
-- 🎓 **Boston College Computer Science Society** — built the society website [bccss.co](https://bccss.co)  
+- 🎓 **Boston College Computer Science Society** — built [bccss.co](https://bccss.co), [hacktheheights.org](https://hacktheheights.org/)
 - 🛠️ **Hackathons** — organizer @ *Hack the Heights*, participant @ UC Berkeley AI Hackathon 2024, AgentHacks 2025, CalHacks 12.0  
 - 🎶 **Boston College Asian Caucus** — former co-Community Chair & co-organizer of Mind to Mic (annual concert)
 
