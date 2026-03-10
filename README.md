@@ -13,15 +13,6 @@ Best way to reach out is by sending me a message on LinkedIn!
 
 ---
 
-## 🛠️ Skills & Tools  
-
-**Languages:** Swift, Python, Java, C, C++, Haskell, Go, SQL / Postgres, JavaScript / TypeScript  
-**Frameworks:** SwiftUI, React, Node, Express, Vue, pandas, NumPy, Matplotlib, Plotly  
-**Infra & DB:** Supabase, Firebase, Git, Docker, Vercel  
-**Other:** JWT, Framer Motion, Tailwind, Puppeteer, Selenium, Postman 
-
----
-
 <!--## 📊 Stats  
 
 ![Nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=daganaa&show_icons=true&theme=radical)  
@@ -32,8 +23,8 @@ Best way to reach out is by sending me a message on LinkedIn!
 
 ## 🌐 Extracurriculars & Involvement  
 
-- 🎓 **Boston College Computer Science Society** — built [bccss.co](https://bccss.co), [hacktheheights.org](https://hacktheheights.org/)
-- 🛠️ **Hackathons** — organizer @ *Hack the Heights*, participant @ UC Berkeley AI Hackathon 2024, AgentHacks 2025, CalHacks 12.0  
+- 🎓 **Boston College Computer Science Society** — built [bccss.co](https://bccss.co), [hacktheheights.org](https://hacktheheights.org/), run hackathon + events + student programs.
+- 🛠️ **Hackathons** — organizer @ *Hack the Heights*, participant @ UC Berkeley AI Hackathon 2024, AgentHacks 2025, CalHacks 12.0, HackBeanpot  
 - 🎶 **Boston College Asian Caucus** — former co-Community Chair & co-organizer of Mind to Mic (annual concert)
 
 ---
