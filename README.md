@@ -25,7 +25,7 @@ best way to reach out is by sending me a message on linkedin!
 
 ## on-campus
 
--  **Boston College Computer Science Society** — built [bccss.co](https://bccss.co), [hacktheheights.org](https://hacktheheights.org/), run hackathon + events + student programs.
+-  **Boston College Computer Science Society** — built [bccss.dev](https://bccss.dev), [hacktheheights.org](https://hacktheheights.org/), run hackathon + events + student programs.
 -  **Hackathons** — organizer @ *Hack the Heights*, participant @ UC Berkeley AI Hackathon 2024, AgentHacks 2025, CalHacks 12.0, HackBeanpot  
 -  **Boston College Asian Caucus** — former co-Community Chair & co-organizer of Mind to Mic (annual concert)
 
