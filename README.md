@@ -25,17 +25,17 @@ best way to reach out is by sending me a message on linkedin!
 
 ## on-campus
 
--  **Boston College Computer Science Society** — built [bccss.dev](https://bccss.dev), [hacktheheights.org](https://hacktheheights.org/), run hackathon + events + student programs.
--  **Hackathons** — organizer @ *Hack the Heights*, participant @ UC Berkeley AI Hackathon 2024, AgentHacks 2025, CalHacks 12.0, HackBeanpot  
--  **Boston College Asian Caucus** — former co-Community Chair & co-organizer of Mind to Mic (annual concert)
+-  **boston college computer science society** — built [bccss.dev](https://bccss.dev), [hacktheheights.org](https://hacktheheights.org/), run hackathon + events + student programs.
+-  **hackathon - goer** — organizer @ *hack the heights*, participant @ berkeley ai hackathon 2024, agenthacks 2025, calhacks 12.0, hackbeanpot  
+-  **asian caucus @ boston college** — former co-community chair & co-organizer of *mind to mic* (annual concert, 500+ attendees)
 
 ---
 
 ## links
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathanthai/)  
-[![Portfolio](https://img.shields.io/badge/Website-000?logo=vercel&logoColor=white)](https://nathanthai.dev)  
-[![Email](https://img.shields.io/badge/Email-grey?logo=gmail&logoColor=white)](mailto:thainb@bc.edu)  
+[linkedin](https://www.linkedin.com/in/nathanthai/)  
+[my portfolio](https://nathanthai.dev)  
+[email](mailto:thainb@bc.edu)  
 
 ---
 
@@ -44,4 +44,4 @@ best way to reach out is by sending me a message on linkedin!
 
  Currently learning **systems design** and building tools that **make student life easier**.  -->
 
-![Visitor Count](https://komarev.com/ghpvc/?username=nathanthai&color=brightgreen)
+![count lol](https://komarev.com/ghpvc/?username=nathanthai&color=brightgreen)
