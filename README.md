@@ -1,15 +1,17 @@
-# 👋 I’m Nathan Thai  
+# i am nathan!
 
-CS @ Boston College
+cs @ boston college, minors in data science + applied psychology
 
 ---
 
-## 🌟 About Me  
-I'm a software engineer from San Jose, CA at Boston College. I like making projects to help people be more efficient
+## 
+i like making projects to make people's lives more efficient 
 
-Outside of code, you’ll find me at concerts, cooking, or sketching new side projects.
+developing eagle eats (2k+ downloads, 250+ DAUs) to help students at my college find menus and plan meals better
 
-Best way to reach out is by sending me a message on LinkedIn!
+i also enjoy cooking, rock climbing, listening to music, and recently making clothes
+
+best way to reach out is by sending me a message on linkedin!
 
 ---
 
@@ -21,15 +23,15 @@ Best way to reach out is by sending me a message on LinkedIn!
 ---
 -->
 
-## 🌐 Extracurriculars & Involvement  
+## on-campus
 
-- 🎓 **Boston College Computer Science Society** — built [bccss.co](https://bccss.co), [hacktheheights.org](https://hacktheheights.org/), run hackathon + events + student programs.
-- 🛠️ **Hackathons** — organizer @ *Hack the Heights*, participant @ UC Berkeley AI Hackathon 2024, AgentHacks 2025, CalHacks 12.0, HackBeanpot  
-- 🎶 **Boston College Asian Caucus** — former co-Community Chair & co-organizer of Mind to Mic (annual concert)
+-  **Boston College Computer Science Society** — built [bccss.co](https://bccss.co), [hacktheheights.org](https://hacktheheights.org/), run hackathon + events + student programs.
+-  **Hackathons** — organizer @ *Hack the Heights*, participant @ UC Berkeley AI Hackathon 2024, AgentHacks 2025, CalHacks 12.0, HackBeanpot  
+-  **Boston College Asian Caucus** — former co-Community Chair & co-organizer of Mind to Mic (annual concert)
 
 ---
 
-## 🌱 Connect with Me  
+## links
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathanthai/)  
 [![Portfolio](https://img.shields.io/badge/Website-000?logo=vercel&logoColor=white)](https://nathanthai.dev)  
