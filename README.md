@@ -24,4 +24,4 @@ I'd love to chat! Reach out to me @ thainb@bc.edu
 
  Currently learning **systems design** and building tools that **make student life easier**.  -->
 
-![count lol](https://komarev.com/ghpvc/?username=nathanthai&color=brightgreen)
+<!--![count lol](https://komarev.com/ghpvc/?username=nathanthai&color=brightgreen) -->
